@@ -1,0 +1,32 @@
+Agriculture module banner photos
+===============================
+
+farmers-banner.jpg
+  "Rice farmers at work in the Philippines" — IRRI Images
+  https://commons.wikimedia.org/wiki/File:Rice_farmers_at_work_in_the_Philippines.jpg
+  CC BY 2.0. Resized and compressed for this project.
+
+farms-banner.jpg
+  "Rice Field Corella Bohol" — Magalhães
+  https://commons.wikimedia.org/wiki/File:Rice_Field_Corella_Bohol.jpg
+  Public domain, released by the photographer. Resized and compressed.
+
+crops-banner.jpg
+  "Growing rice plants" — Jdcgumpal
+  https://commons.wikimedia.org/wiki/File:Growing_rice_plants.JPG
+  CC BY-SA 3.0. Resized and compressed for this project.
+
+planting-banner.jpg
+  "Bulakenyo farmer transplanting Oryza sativa palay seedling in Guiguinto rice paddy 01"
+  — FBenjr123
+  https://commons.wikimedia.org/wiki/File:Bulakenyo_farmer_transplanting_Oryza_sativa_palay_seedling_in_Guiguinto_rice_paddy_01.jpg
+  CC BY-SA 4.0. Resized and compressed for this project.
+
+harvest-banner.jpg
+  "Harvested rice in San Miguel, Bulacan" — barrera_marquez2003
+  https://commons.wikimedia.org/wiki/File:Harvested_rice_in_San_Miguel,_Bulacan_-_Flickr.jpg
+  CC BY 2.0. Resized and compressed for this project.
+
+License links: https://creativecommons.org/licenses/by/2.0/,
+https://creativecommons.org/licenses/by-sa/3.0/, and
+https://creativecommons.org/licenses/by-sa/4.0/.

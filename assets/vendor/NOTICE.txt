@@ -1,0 +1,11 @@
+Frontend vendor assets
+======================
+
+Bootstrap 5.3.3 CSS
+  https://getbootstrap.com/
+  MIT License: https://github.com/twbs/bootstrap/blob/v5.3.3/LICENSE
+
+Bootstrap Icons 1.11.3 CSS and font files
+  https://icons.getbootstrap.com/
+  MIT License for code and SIL Open Font License 1.1 for icon fonts:
+  https://github.com/twbs/icons/blob/v1.11.3/LICENSE
